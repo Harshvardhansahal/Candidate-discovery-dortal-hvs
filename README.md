@@ -55,5 +55,3 @@ candidate-discovery-portal
 4. **View the Output**
    Open your web browser and navigate to the specified URL (e.g., `http://localhost:3000`) to see the application in action. Check the console for any logs or errors.
 
-## Additional Information
-Make sure to update this README file with any additional information or specific instructions related to your project setup as needed.
